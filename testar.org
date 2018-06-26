@@ -5,3 +5,22 @@ Lite text
 ** tillbaks
 ** samma
 *** under
+* kod
+#+BEGIN_SRC bash
+ls 
+whoami
+
+#+END_SRC
+
+Lite text emellan
+
+#+BEGIN_SRC perl
+
+for my $xxx (@lista) {
+  ...
+}
+
+say "Hello world!";
+
+#+END_SRC
+

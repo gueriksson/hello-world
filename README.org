@@ -13,3 +13,7 @@ say "Hejsan världen!"
 | yy  | A   |   2 |
 | zz  | B   |  32 |
 |-----+-----+-----|
+
+** en länk
+[[testar.org]]
+
